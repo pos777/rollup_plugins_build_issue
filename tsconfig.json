@@ -1,0 +1,8 @@
+{
+  "compilerOptions": {
+    "moduleResolution": "Node",
+    "target": "ES6"
+  },
+  "include": [ "src/index.ts", "rollup.config.ts" ],
+  "exclude": [ "node_modules", "dist" ]
+}
